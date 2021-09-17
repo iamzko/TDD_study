@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kai/TDD_study/Soundex.h
+string
+-
+unordered_map
+-
+
+/home/kai/TDD_study/tdd_soundexTest.cpp
+gmock/gmock.h
+/home/kai/TDD_study/gmock/gmock.h
+Soundex.h
+/home/kai/TDD_study/Soundex.h
+

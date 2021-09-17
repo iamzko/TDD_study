@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall    CMakeFiles/first_tdd.dir/main.cpp.o CMakeFiles/first_tdd.dir/tdd_soundexTest.cpp.o  -o first_tdd  -lgmock -lgtest -lpthread 

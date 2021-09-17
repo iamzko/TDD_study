@@ -1,0 +1,3 @@
+/home/kai/TDD_study/CMakeFiles/rebuild_cache.dir
+/home/kai/TDD_study/CMakeFiles/edit_cache.dir
+/home/kai/TDD_study/CMakeFiles/first_tdd.dir
